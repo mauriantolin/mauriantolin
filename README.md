@@ -1,8 +1,9 @@
 ## Hello World 👋 I'm Mauri Antolin
 
-I'm a **Fullstack Developer** with a strong passion for **Artificial Intelligence** and **Software Development**.  
-I enjoy building scalable products, clean architectures, and modern web experiences (especially with **Next.js**).  
-Currently, I'm a **Software Engineering student at UADE** and work as an **Application Developer at Akapol**, where I collaborate on internal systems, integrations, and automation projects.
+I'm a **Full Stack Developer** focused on **Artificial Intelligence and Software Development**.  
+I enjoy designing clean systems, building scalable applications, and exploring how AI can enhance real-world software solutions.
+
+My interests revolve around **modern web technologies**, **automation**, **data-driven systems**, and **cloud-native architectures**.
 
 <br/>
 
@@ -16,26 +17,22 @@ Currently, I'm a **Software Engineering student at UADE** and work as an **Appli
 <br />
 <br />
 
-<img align="right" alt="Banner" src="./assets/banner.jpg" width="240px" />
+## Focus Areas 🧠
+
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚙️ Full Stack Web Development
+- 🧩 Scalable & Event-Driven Architectures
+- ☁️ Cloud & Automation
+- 📊 Data Processing & Analytics
 
 <br />
 
-## What I'm up to 🚀
-
-- 🔭 Working as **Application Developer @ Akapol**
-- 🌱 Deepening my knowledge in **AI, Machine Learning & Software Architecture**
-- ⚙️ Building fullstack applications with **Next.js, React & Node**
-- 🧠 Exploring automation, data processing and intelligent systems
-- 💬 Always open to learning, improving and sharing knowledge
-
-<br />
-
-## Tech Stack & Tools 🛠️
+## Tech Stack 🛠️
 
 ### Languages
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 
 ### Frontend
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
@@ -44,12 +41,14 @@ Currently, I'm a **Software Engineering student at UADE** and work as an **Appli
 ### Backend & Data
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
 
-### AI & Cloud
+### Cloud & DevOps
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
 
 ---
 
-![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriantolin&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriantolin&show_icons=true&hide_border=true)
